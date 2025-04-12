@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Fahri AYDIN
-- 👀 I’m interested in JAVA ,c#,create game,HTML ,CSS ,JavaScript
-- 🌱 I’m currently learning JAVA ,c#,create game,HTML ,CSS,JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in JAVA ,C#,Python ,HTML5 ,CSS ,JavaScript
 - 📫 How to reach me fahriaydin47@gmail.com
 
 <!---
