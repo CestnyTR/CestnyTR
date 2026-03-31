@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fahri AYDIN
-- 👀 I’m interested in JAVA ,C#,Python ,HTML5 ,CSS ,JavaScript
+- 👀 I’m interested in PHP ,C#,Python ,HTML5 ,CSS ,JavaScript
 - 📫 How to reach me fahriaydin47@gmail.com
 - 💻 https://www.fahriaydin.dev/
 <!---
