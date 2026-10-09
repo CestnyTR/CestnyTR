@@ -19,6 +19,6 @@ across e-commerce, real estate and disaster coordination.
 - **Data & DevOps:** PostgreSQL · MySQL · MSSQL · MongoDB · Redis · Docker · Linux · Nginx
 
 #### 📫 Contact
-[fahriaydin.dev](https://fahriaydin.dev) · [LinkedIn](https://linkedin.com/in/cestnytr) · fahriaydin47@gmail.com
+📄 [Resume](https://fahriaydin.dev/cv) · [fahriaydin.dev](https://fahriaydin.dev) · [LinkedIn](https://linkedin.com/in/cestnytr) · fahriaydin47@gmail.com
 
 > Most of my professional work lives in private company repositories — happy to walk through it in an interview.
