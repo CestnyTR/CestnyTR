@@ -14,9 +14,9 @@ across e-commerce, real estate and disaster coordination.
 - **Mobile portfolio** — [React Native / Expo app](https://github.com/CestnyTR/mobile.fahriaydin.dev)
 
 #### 🛠 Stack
-**Backend:** PHP · Laravel · C# · ASP.NET Core · Node.js · Express · Python
-**Frontend:** TypeScript · React · Next.js · Vue/Nuxt · React Native · Tailwind
-**Data & DevOps:** PostgreSQL · MySQL · MSSQL · MongoDB · Redis · Docker · Linux · Nginx
+- **Backend:** PHP · Laravel · C# · ASP.NET Core · Node.js · Express · Python
+- **Frontend:** TypeScript · React · Next.js · Vue/Nuxt · React Native · Tailwind
+- **Data & DevOps:** PostgreSQL · MySQL · MSSQL · MongoDB · Redis · Docker · Linux · Nginx
 
 #### 📫 Contact
 [fahriaydin.dev](https://fahriaydin.dev) · [LinkedIn](https://linkedin.com/in/cestnytr) · fahriaydin47@gmail.com
