@@ -10,7 +10,7 @@ across e-commerce, real estate and disaster coordination.
 - **Nabız** — self-hosted error & uptime monitoring hub, used by 20+ live apps.
   SDKs: [Laravel](https://github.com/AllturkoGit/nabiz-laravel) · [Node.js](https://github.com/AllturkoGit/nabiz-node) · [Python](https://github.com/AllturkoGit/nabiz-python)
 - **E-Afet** — 5-app disaster coordination ecosystem on a shared Express + PostgreSQL backend · [e-afet.com](https://e-afet.com)
-- **fahriaydin.dev** — my portfolio: Laravel + React + Three.js, 5 languages, custom admin panel
+- **[fahriaydin.dev](https://fahriaydin.dev)** — my portfolio: Laravel + React + Three.js, 5 languages, custom admin panel
 - **Mobile portfolio** — [React Native / Expo app](https://github.com/CestnyTR/mobile.fahriaydin.dev)
 
 #### 🛠 Stack
@@ -20,6 +20,11 @@ across e-commerce, real estate and disaster coordination.
 **Frontend:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Vue](https://img.shields.io/badge/Vue%2FNuxt-4FC08D?logo=vuedotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 
 **Data & DevOps:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?logo=dotnet&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+
+#### 📊 Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=CestnyTR&theme=dark&hide_border=true" alt="GitHub Streak">
+</p>
 
 #### 📫 Contact
 📄 [Resume](https://fahriaydin.dev/cv) · [fahriaydin.dev](https://fahriaydin.dev) · [LinkedIn](https://linkedin.com/in/cestnytr) · fahriaydin47@gmail.com
