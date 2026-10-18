@@ -4,7 +4,7 @@ Full Stack Developer based in Konya, Türkiye — Laravel, .NET and React, with 
 I build REST APIs, admin panels and multi-tenant platforms, and I've worked on 20+ production projects
 across e-commerce, real estate and disaster coordination.
 
-**Currently:** open to Full Stack / Backend Developer roles (Konya, hybrid or remote).
+**Currently:** open to Full Stack / Backend Developer roles — on-site or hybrid in Konya, or remote.
 
 #### 🔭 Featured
 - **Nabız** — self-hosted error & uptime monitoring hub, used by 20+ live apps.
