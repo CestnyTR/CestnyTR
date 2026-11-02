@@ -26,7 +26,7 @@ across e-commerce, real estate and disaster coordination.
   <img src="https://streak-stats.demolab.com/?user=CestnyTR&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=cestnytr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub top-langs">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=cestnytr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide_border=true" alt="GitHub top-langs">
 </p>
 #### 📫 Contact
 📄 [Resume](https://fahriaydin.dev/cv) · [fahriaydin.dev](https://fahriaydin.dev) · [LinkedIn](https://linkedin.com/in/cestnytr) · fahriaydin47@gmail.com
